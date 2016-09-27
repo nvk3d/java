@@ -1,4 +1,4 @@
-package lesson;
+package lesson;;
 
 public class Course {
     protected String[] mas = {"Run", "Jump", "Swim"};
