@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="GuiTicTacToe(3x3):jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuiTicTacToe_3x3__jar</output-path>
+    <root id="root">
+      <element id="archive" name="GuiTicTacToe(3x3).jar">
+        <element id="module-output" name="GuiTicTacToe(3x3)" />
+      </element>
+    </root>
+  </artifact>
+</component>
